@@ -1,0 +1,19 @@
+(Installation) 
+There are not any binaries/applications/libraries that you need to install to view or demo this project, the only the requirement 
+is that you have a Web Browser Installed (IE, Firefox, Google Chrome) We recommend using Google Chrome :)
+
+(Setup) 
+There are three ways you can view/demo the project:
+
+1. Provided you are either on the TAMU campus network or on the TAMU VPN, you can click this link to access the project:
+(projects.cse.tamu.edu/ASCD/Project_1_SL/page.html)
+
+2. If you would like to render the project locally on your own browser, you can simply unzip the contents of the archive, and double-click
+on the "index.html" file in order to render the project in your default browser.
+
+3. Alternatively, you can view a YouTube video we created showcasing and demonstrating all aspects of the project by accessing this link:
+(https://youtu.be/ASD)
+
+Documentation for the project can be found in the "docs" folder by opening the "index.html" file or by accessing it through the project webpage
+
+Thank you and have fun!

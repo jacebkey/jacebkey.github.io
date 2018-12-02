@@ -1,0 +1,10 @@
+[
+    {
+        "title": "Show an alert",
+        "code": "alert('this is a saved segment of code');"
+    },
+    {
+        "title": "Write a letter function",
+        "code": "writeLetter('l');"
+    }
+]
